@@ -6,8 +6,6 @@ This project is an interactive Power BI dashboard built to analyze customer subs
 
 The goal of this project is to help businesses understand customer behaviour, identify high-performing channels, and improve subscription conversion rates through data-driven insights.
 
----
-
 ## Objectives
 
 - Analyze customer subscription behaviour
@@ -17,8 +15,6 @@ The goal of this project is to help businesses understand customer behaviour, id
 - Discover top-performing customer segments
 - Improve marketing campaign effectiveness
 
----
-
 ## Business Questions Answered
 
 1. Where are customers dropping off in the subscription process?
@@ -26,8 +22,6 @@ The goal of this project is to help businesses understand customer behaviour, id
 3. Which customer segments contribute the most subscribers?
 4. How can subscription conversion rates be improved?
 5. Which areas require optimization for better campaign performance?
-
----
 
 # Dashboard Features
 
@@ -37,8 +31,6 @@ The goal of this project is to help businesses understand customer behaviour, id
 - Total Non-Subscribers
 - Previous Campaign Success Rate
 - Overall Subscription Rate
-
----
 
 ## Visualizations
 
@@ -104,8 +96,6 @@ The dataset includes:
 
 <img width="1366" height="768" alt="Dashboard Preview" src=image.png>
 
----
-
 # Project Outcomes
 
 This dashboard helps businesses:
@@ -114,8 +104,6 @@ This dashboard helps businesses:
 - Identify high-value customer segments
 - Reduce customer drop-off
 - Increase subscription conversion rates
-
----
 
 # Future Improvements
 
