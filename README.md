@@ -102,7 +102,7 @@ The dataset includes:
 
 # Dashboard Preview
 
-<img width="1366" height="768" alt="Dashboard Preview" src="YOUR_IMAGE_LINK_HERE">
+<img width="1366" height="768" alt="Dashboard Preview" src=image.png>
 
 ---
 
